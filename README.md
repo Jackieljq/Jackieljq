@@ -1,9 +1,19 @@
-<!-- Banner -->
+<!-- 🌈 Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Jackie%20Li&fontSize=45&fontColor=ffffff" />
+</p>
+
+<!-- 👇 Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-stack+Developer;Cloud+%26+API+Engineer;UWA+Master+of+IT" />
+</p>
+
+<!-- 👋 Titles -->
 <h1 align="center">Hi, I'm Jackie 👋</h1>
-<h3 align="center">Software Engineer | Full-Stack | Cloud & API Development | FinTech</h3>
+<h3 align="center">Software Engineer | Full Stack | Cloud & API Development | FinTech</h3>
 
 <p align="center">
-Master of Information Technology (UWA) · Former R&D Engineer at Huaji Technology · Based in Perth, Australia
+  Based in Perth, Australia · Master of IT (UWA) · Former R&D Engineer at Huaji Technology
 </p>
 
 ---
@@ -32,23 +42,53 @@ I enjoy building:
 
 ## 🧰 Tech Stack
 
-### **Languages & Frameworks**
+### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,r" />
 </p>
 
-### **Cloud & DevOps**
+### 🧩 Frameworks & Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,bash,powershell,linux,git" />
+  <img src="https://skillicons.dev/icons?i=react,flask,fastapi,pyqt" />
 </p>
 
-### **APIs, Protocols & Tools**
-- Socket API, OpenAPI, LLM API, MCP API, Prisma API  
-- TCP/IP · Ethernet · PKI · HTTPS  
-- Mitmproxy · Uvicorn · LiteLLM · Langfuse  
-- Cocos · Godot  
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,powershell,git" />
+</p>
+
+### 🔌 APIs & Protocols
+<p>
+  <img src="https://img.shields.io/badge/Socket%20API-0A66C2?style=flat&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAPI-6DB33F?style=flat&logo=openapiinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20API-FF6F00?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP%20API-0F9D58?style=flat&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma%20API-2D3748?style=flat&logo=prisma&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/TCP%2FIP-003366?style=flat" />
+  <img src="https://img.shields.io/badge/HTTPS-111111?style=flat&logo=ssl&logoColor=white" />
+  <img src="https://img.shields.io/badge/PKI-0052CC?style=flat" />
+  <img src="https://img.shields.io/badge/Ethernet-6A5ACD?style=flat" />
+</p>
+
+### 🛠 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Mitmproxy-000000?style=flat" />
+  <img src="https://img.shields.io/badge/Uvicorn-4B8BBE?style=flat" />
+  <img src="https://img.shields.io/badge/LiteLLM-FF6F91?style=flat" />
+  <img src="https://img.shields.io/badge/Langfuse-0A66C2?style=flat" />
+  <img src="https://img.shields.io/badge/Cocos-00E2FF?style=flat&logo=cocos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white" />
+</p>
 
 ---
+
 
 ## 🚀 Highlight Projects
 
@@ -76,13 +116,13 @@ Developed complete OAM functional modules:
 - Performed debugging, version upgrades & FAE support
 
 ---
-
 ## 📊 GitHub Stats
 
+## 🐍 Contribution Snake
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jackieljq&show_icons=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jackieljq&layout=compact&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 
@@ -111,7 +151,5 @@ Corporate Finance · Accounting · Taxation · Econometrics · Auditing
 ---
 
   
-
----
 
 ### 🌟 Thanks for visiting my GitHub profile!
